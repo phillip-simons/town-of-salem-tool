@@ -11,3 +11,5 @@ and augments the UI.
 I'm developing it exclusively for a friend so there are currently no docs at all.
 If others become interested in it, shoot me a message and I'll document the current
 functionality and how to use it.
+
+I am interested, don't know how to "shoot you a message"
